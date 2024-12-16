@@ -1,0 +1,16 @@
+Core, CSCI3656 Numerical Computation, or APPM 4650/MATH4650-3 Intermediate Numerical Analysis 1, or APPM 4600-4 Numerical Methods and Scientific Computing, or MCEN 3030-3 Computational Methods (only one of these will count as Computer Science credit)
+Upper, CSCI4802 (can count up to 3 credits)
+Upper, CSCI4830 (up to 9 credit hours total from 4830/4831 combined can count toward CS electives)
+Upper, CSCI4831 (up to 9 credit hours total from 4830/4831 combined can count toward CS electives)
+
+ATLS 4214-3, Big Data Architecture (formerly offered as CSCI 4830 Special Topics: Big Data or ATLS 4519 Special Topics: Big Data; only one of these will count toward the CSEN-BS)
+
+ATLS 4120-3, Mobile Application Development (formerly offered as ATLS 4519 Special Topics: Mobile App Dev; only one of these will count toward the CSEN-BS) 
+
+ATLS 4320-3, Mobile Application Development: Advanced Topics (formerly offered as ATLS 4519 Special Topics: Adv Mobile App Development; only one of these will count toward the CSEN-BS)
+
+CSCI 4113-3, Linux System Administration (previously offered as TLEN 5842; only one of these will count)
+
+APPM 4660-3, Intermediate Numerical Analysis 2, or APPM 4610 (3) Numerical Differential Equations
+
+CSCI 3022-3, Introduction to Data Science with Probability and Statistics (can count for probability/statistics requirement OR CS elective, but not both)
