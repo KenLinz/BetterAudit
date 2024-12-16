@@ -17,8 +17,8 @@ The goal of BetterAudit is to enable students to have ease of access to their pr
 ## Outline
 
 SourceCode - Contains the Code for the site <br/>
-&nbsp;&nbsp;&nbsp;init_data - Contains Database Initialization Code (SQL) <br/>
-&nbsp;&nbsp;&nbsp;views - Contains Webpages, Partials, Layouts, and Resources <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;init_data - Contains Database Initialization Code (SQL) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;views - Contains Webpages, Partials, Layouts, and Resources <br/>
 
 ## How to run?
 
