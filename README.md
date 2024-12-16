@@ -15,11 +15,11 @@ BetterAudit is our attempt at revising the "Degree Audit" feature that CU Boulde
 The goal of BetterAudit is to enable students to have ease of access to their progress throughout their college journey. 
 
 ## Outline
-<pre>
+
 SourceCode - Contains the Code for the site <br/>
-    init_data - Contains Database Initialization Code (SQL) <br/>
-    views - Contains Webpages, Partials, Layouts, and Resources <br/>
-</pre>
+&nbsp;&nbsp;&nbsp;init_data - Contains Database Initialization Code (SQL) <br/>
+&nbsp;&nbsp;&nbsp;views - Contains Webpages, Partials, Layouts, and Resources <br/>
+
 ## How to run?
 
 Currently, the only way to run our site is through Docker and composing to run it locally on your computer. When we have finished and fleshed out the Bachelor's of Science in Computer Science degree, we will host the site to the cloud to make it more accessible to users!
