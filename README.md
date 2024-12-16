@@ -2,9 +2,9 @@
 
 ## Developers
 
-This is a side project created by:
-Ken Linzmeier (GIT: KenLinz) (EMAIL: keli1246@colorado.edu)
-Alyssa Webb (GIT: Alyssa-Webb) (EMAIL: alwe1021@colorado.edu)
+This is a side project created by: <br/>
+Ken Linzmeier (GIT: KenLinz) (EMAIL: keli1246@colorado.edu) <br/>
+Alyssa Webb (GIT: Alyssa-Webb) (EMAIL: alwe1021@colorado.edu) <br/>
 
 ## Description
 
@@ -16,9 +16,9 @@ The goal of BetterAudit is to enable students to have ease of access to their pr
 
 ## Outline
 
-SourceCode - Contains the Code for the site
-    init_data - Contains Database Initialization Code (SQL)
-    views - Contains Webpages, Partials, Layouts, and Resources
+SourceCode - Contains the Code for the site <br/>
+    init_data - Contains Database Initialization Code (SQL) <br/>
+    views - Contains Webpages, Partials, Layouts, and Resources <br/>
 
 ## How to run?
 
